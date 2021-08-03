@@ -6,8 +6,8 @@ get '/' do
 end 
 
 get '/cat' do
-  "<div>
-  <img src='https://imgur.com/jFaSxym'>
+  "<div style='border: 2px dashed red'>
+  <img src='https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.pngm' alt='a cat'>
   </div>"
 end
 
